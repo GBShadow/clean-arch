@@ -7,7 +7,35 @@ export default function Home() {
       <ul className="list">
         <li className="flex gap-4 items-center">
           <label className="label">Nome: </label>
+          <p>Product 0</p>
+          <Link className="link" href="#">
+            Ver detalhes
+          </Link>
+        </li>
+        <li className="flex gap-4 items-center">
+          <label className="label">Nome: </label>
           <p>Product 1</p>
+          <Link className="link" href="#">
+            Ver detalhes
+          </Link>
+        </li>
+        <li className="flex gap-4 items-center">
+          <label className="label">Nome: </label>
+          <p>Product 2</p>
+          <Link className="link" href="#">
+            Ver detalhes
+          </Link>
+        </li>
+        <li className="flex gap-4 items-center">
+          <label className="label">Nome: </label>
+          <p>Product 3</p>
+          <Link className="link" href="#">
+            Ver detalhes
+          </Link>
+        </li>
+        <li className="flex gap-4 items-center">
+          <label className="label">Nome: </label>
+          <p>Product 4</p>
           <Link className="link" href="#">
             Ver detalhes
           </Link>
