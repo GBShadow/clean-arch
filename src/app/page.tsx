@@ -19,6 +19,13 @@ export default function Home() {
             Ver detalhes
           </Link>
         </li>
+        <li className="flex gap-4 items-center">
+          <label className="label">Nome: </label>
+          <p>Product 3</p>
+          <Link className="link" href="#">
+            Ver detalhes
+          </Link>
+        </li>
       </ul>
     </div>
   );
